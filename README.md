@@ -21,3 +21,4 @@ Some conclusions we can draw from this data is:
 
 
 ## Summary
+This analysis would seem to show that W. Ivy should go ahead and open his surf shop, while expecting minimal seasonal changes. Yet, there are still some things missing from the analysis. Two additional queries I would perform to gather more weather data would be to look at data about the tides and the cloud coverage for the two months. Tides have a huge impact on surfing, for obvious reasons. In addition to seeing if the tides are suitable enough for surfers, cloud coverage and rain could also have a large effect on surfers. I would theorize that cloud coverage is highly correlative to rain and could change surfers habits. The four queries ((tides, cloud coverage) X (June, December)) would be very similar to that of the tempurature queries for each month.
